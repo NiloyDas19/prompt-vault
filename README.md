@@ -27,15 +27,16 @@ Prompt Vault is a structured, community-maintained library of high-quality AI pr
 | # | Category | Prompts | Status |
 |---|---|---|---|
 | 1 | [💻 Coding & Development](./coding-development/) | 15 | ✅ Available |
-| 2 | ✍️ Writing | — | 🔜 Coming Soon |
-| 3 | 📣 Marketing & Sales | — | 🔜 Coming Soon |
-| 4 | 🗂️ Productivity & Planning | — | 🔜 Coming Soon |
-| 5 | 🔬 Research & Analysis | — | 🔜 Coming Soon |
-| 6 | 🎓 Education & Learning | — | 🔜 Coming Soon |
-| 7 | 💼 Business & Strategy | — | 🔜 Coming Soon |
-| 8 | 🎨 Creative & Fun | — | 🔜 Coming Soon |
-| 9 | 🔎 SEO & Content | — | 🔜 Coming Soon |
-| 10 | 📊 Data & Analytics | — | 🔜 Coming Soon |
+| 2 | [🤖 Claude Skills](./claude-skills/) | 36 | ✅ Available |
+| 3 | ✍️ Writing | — | 🔜 Coming Soon |
+| 4 | 📣 Marketing & Sales | — | 🔜 Coming Soon |
+| 5 | 🗂️ Productivity & Planning | — | 🔜 Coming Soon |
+| 6 | 🔬 Research & Analysis | — | 🔜 Coming Soon |
+| 7 | 🎓 Education & Learning | — | 🔜 Coming Soon |
+| 8 | 💼 Business & Strategy | — | 🔜 Coming Soon |
+| 9 | 🎨 Creative & Fun | — | 🔜 Coming Soon |
+| 10 | 🔎 SEO & Content | — | 🔜 Coming Soon |
+| 11 | 📊 Data & Analytics | — | 🔜 Coming Soon |
 
 ---
 
