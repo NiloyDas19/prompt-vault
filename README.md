@@ -4,7 +4,7 @@
 > Curated, structured, and ready-to-use prompts for ChatGPT, Claude, Gemini, and any capable LLM.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Prompts](https://img.shields.io/badge/Prompts-15%2B-blue)](./coding-development/)
+[![Prompts](https://img.shields.io/badge/Prompts-240%2B-blue)](./coding-development/)
 [![Categories](https://img.shields.io/badge/Categories-10-green)](./coding-development/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -29,8 +29,8 @@ Prompt Vault is a structured, community-maintained library of high-quality AI pr
 | 1 | [💻 Coding & Development](./coding-development/) | 15 | ✅ Available |
 | 2 | [🤖 Claude Skills](./claude-skills/) | 36 | ✅ Available |
 | 3 | [🎨 Image Generation](./image-generation/) | 108 | ✅ Available |
-| 4 | ✍️ Writing | — | 🔜 Coming Soon |
-| 5 | 📣 Marketing & Sales | — | 🔜 Coming Soon |
+| 4 | [📣 Marketing & Sales](./marketing-sales/) | 81 | ✅ Available |
+| 5 | ✍️ Writing | — | 🔜 Coming Soon |
 | 6 | 🗂️ Productivity & Planning | — | 🔜 Coming Soon |
 | 7 | 🔬 Research & Analysis | — | 🔜 Coming Soon |
 | 8 | 🎓 Education & Learning | — | 🔜 Coming Soon |
