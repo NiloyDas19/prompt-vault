@@ -1,6 +1,6 @@
 # 💻 Coding & Development Prompts
 
-> **15 production-grade prompts** for software engineers — from debugging and code review to architecture design, CI/CD, and documentation.
+> **18 production-grade prompts** for software engineers — from debugging and code review to architecture design, CI/CD, documentation, and AI security guardrails.
 
 ---
 
@@ -17,6 +17,8 @@
 | [DevOps & Automation](#-devops--automation) | 2 | CI/CD pipelines, PR descriptions |
 | [Documentation](#-documentation) | 2 | Docstring generation, README creation |
 | [Code Generation](#-code-generation) | 2 | MVP scaffolding, legacy modernization |
+| [Security & AI Guardrails](#️-security--ai-guardrails) | 3 | Agent system guardrails, prompt injection shields |
+
 
 ---
 
@@ -121,6 +123,22 @@ Generates a complete project structure, DB schema, API routes, authentication, a
 ### [Legacy Code Modernizer](./code-generation/legacy-code-modernizer.md)
 Migrates legacy code to modern syntax or framework versions, producing a change log, breaking-change report, and testing checklist.
 > **Best for:** Python 2→3 migrations, ES5→ES2022, class components→hooks, jQuery removal
+
+---
+
+## 🛡️ Security & AI Guardrails
+
+### [AI Agent System Guardrail](./security-guardrails/agent-system-guardrail.md)
+A robust system prompt template to secure AI coding agents, preventing access or alteration of credentials and defending against codebase-embedded prompt injections.
+> **Best for:** Coding agents, system prompts, automated pipelines, security guardrails
+
+### [Code Prompt Injection Detector](./security-guardrails/prompt-injection-detector.md)
+A specialized analysis prompt to scan code comments, documentation, issues, and user-generated text files for hidden prompt injection payloads or unauthorized instruction overrides.
+> **Best for:** Pre-commit hooks, CI/CD safety scanners, agent input sanitation
+
+### [Credential Exposure & Leakage Scanner](./security-guardrails/credential-exposure-guard.md)
+A codebase scanner prompt designed to detect hardcoded credentials, API keys, passwords, and private tokens within code, proposing secure environment-variable-based refactoring.
+> **Best for:** Secret detection, security auditing, safe code refactoring
 
 ---
 

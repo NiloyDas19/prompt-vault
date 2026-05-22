@@ -26,7 +26,7 @@ Prompt Vault is a structured, community-maintained library of high-quality AI pr
 
 | # | Category | Prompts | Status |
 |---|---|---|---|
-| 1 | [💻 Coding & Development](./coding-development/) | 15 | ✅ Available |
+| 1 | [💻 Coding & Development](./coding-development/) | 18 | ✅ Available |
 | 2 | [🤖 Claude Skills](./claude-skills/) | 36 | ✅ Available |
 | 3 | [🎨 Image Generation](./image-generation/) | 108 | ✅ Available |
 | 4 | [📣 Marketing & Sales](./marketing-sales/) | 81 | ✅ Available |
