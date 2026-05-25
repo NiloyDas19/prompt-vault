@@ -4,7 +4,7 @@
 > Curated, structured, and ready-to-use prompts for ChatGPT, Claude, Gemini, and any capable LLM.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Prompts](https://img.shields.io/badge/Prompts-400%2B-blue)](./coding-development/)
+[![Prompts](https://img.shields.io/badge/Prompts-480%2B-blue)](./coding-development/)
 [![Categories](https://img.shields.io/badge/Categories-10-green)](./coding-development/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -32,7 +32,7 @@ Prompt Vault is a structured, community-maintained library of high-quality AI pr
 | 4 | [📣 Marketing & Sales](./marketing-sales/) | 81 | ✅ Available |
 | 5 | [✍️ Writing](./writing/) | 81 | ✅ Available |
 | 6 | [🗂️ Productivity & Planning](./productivity-planning/) | 81 | ✅ Available |
-| 7 | 🔬 Research & Analysis | — | 🔜 Coming Soon |
+| 7 | [🔬 Research & Analysis](./research-analysis/) | 81 | ✅ Available |
 | 8 | 🎓 Education & Learning | — | 🔜 Coming Soon |
 | 9 | 💼 Business & Strategy | — | 🔜 Coming Soon |
 | 10 | 🔎 SEO & Content | — | 🔜 Coming Soon |
